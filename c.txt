@@ -2,3 +2,7 @@ npx create-expo-app authApp --template
 npx expo install react-native-web react-dom @expo/metro-runtime
 npm install @react-navigation/native @react-navigation/stack
 npm i
+
+npm install @react-navigation/native
+npm install @react-navigation/stack
+npm install react-native-screens react-native-safe-area-context
